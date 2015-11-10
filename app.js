@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 
 app.get('/', function(req, res) {
-        res.send('API DEMONTRAÇÃO DOCKER-UAITEST VERSÃO 1.0.0 ');
+        res.send('API DEMONSTRAÇÃO DOCKER-UAITEST VERSÃO 1.0.0');
     });
 
 // Inicia o servidor na porta 5000
