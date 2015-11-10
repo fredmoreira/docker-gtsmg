@@ -1,13 +1,5 @@
 var express = require('express');
-var bodyParser = require('body-parser');
 var app = express();
-
-// Express
-app.use(bodyParser.urlencoded({
-	extended: true
-}));
-
-app.use(bodyParser.json());
 
 app.get('/', function(req, res) {
         res.send('API DEMONSTRAÇÃO DOCKER-UAITEST VERSÃO 1.0.0');
