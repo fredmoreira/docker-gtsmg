@@ -1,4 +1,4 @@
-# docker-uaitest
+# docker-gtsmg
 
 Esta é uma api simples para demonstração da palestra Docker para testers - um passeio fora da caixa
 
