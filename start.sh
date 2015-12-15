@@ -1,3 +1,3 @@
 #!/bin/bash
-cd docker-uaitest
+cd docker-gtsmg
 node app.js
